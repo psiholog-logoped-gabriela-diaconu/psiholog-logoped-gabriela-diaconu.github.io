@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://psiholog-logoped-gabriela-diaconu.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/main.jpeg</image:loc>
+      <image:title>Cabinet Individual de Psihologie – Diaconu Gabriela</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/section.jpeg</image:loc>
+      <image:title>Gabriela Diaconu – psiholog-logoped</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/img1.jpeg</image:loc>
+      <image:title>Recepție – Cabinet psihologic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/img2.jpeg</image:loc>
+      <image:title>Spațiu de terapie</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/img3.jpeg</image:loc>
+      <image:title>Colț logopedic – materiale</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/img4.jpeg</image:loc>
+      <image:title>Cabinet – detaliu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/img5.jpeg</image:loc>
+      <image:title>Recepție – Cabinet psihologic</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/img6.jpeg</image:loc>
+      <image:title>Spațiu de terapie</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://psiholog-logoped-gabriela-diaconu.github.io/images/logo.png</image:loc>
+      <image:title>Logo Cabinet Psihologic – Diaconu Gabriela</image:title>
+    </image:image>
+  </url>
+</urlset>
